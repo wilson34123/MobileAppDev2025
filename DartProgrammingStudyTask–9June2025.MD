@@ -25,7 +25,7 @@ Please take time today to **search, read, and understand** the following key con
 - **Assert Statements**
 
 ## Loops & Flow Control
-- **For Loops**
+- **For Loops (For and For in)**
 - **While Loops**
 - **Nested Loops**
 - **Break Statement**
