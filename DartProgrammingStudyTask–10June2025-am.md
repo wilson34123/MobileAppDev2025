@@ -7,21 +7,22 @@ Please take time today to **search, read, and understand** the following key con
 
 ## FUNCTIONS
 - ### Regular Functions
-### Functions with Parameters
-### Arrow Functions
-### Functions with Optional Parameters
-### Types of Functions
-### Named Parameters
-### Return Values
-### Implicit Return Type
-###  No Return Value (Void)
-### Higher-Order Functions
-### Lexical Closures
-### Generators
+- ### Functions with Parameters
+- ### Arrow Functions
+- ### Functions with Optional Parameters
+- ### Types of Functions
+- ### Named Parameters
+- ### Return Values
+- ### Implicit Return Type
+- ###  No Return Value (Void)
+- ### Higher-Order Functions
+- ### Lexical Closures
+- ### Generators
 
 
  **Instructions:**
 - Use official Dart documentation or trusted programming resources.
 - Take notes and try writing small code examples for each concept.
 - Be prepared to discuss or demonstrate your understanding in the next session.
+- Code must be commented with your own words
 
