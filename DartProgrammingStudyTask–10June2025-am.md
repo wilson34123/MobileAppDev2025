@@ -6,7 +6,7 @@ Dear Students,
 Please take time today to **search, read, and understand** the following key concepts in Dart programming. These topics are essential for building a strong foundation in Dart and will be useful in your upcoming projects and assessments: you should understand the definition, syntax, usage and example for each.
 
 ## FUNCTIONS
-### Regular Functions
+- ### Regular Functions
 ### Functions with Parameters
 ### Arrow Functions
 ### Functions with Optional Parameters
